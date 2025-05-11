@@ -202,17 +202,9 @@ AI-Student-Bot Template on GitHub
 Let me know if you'd like documentation or deployment help too.
 ```
 
-# Conclusion
-
-The development of the TECHTRAIL BOT demonstrates how scenario-based prompting techniques can significantly enhance user interaction within a domain-specific chatbot—here, tailored to computer science and technology. By designing structured prompts (straightforward, tabular, and preceding-question based), the bot effectively addresses various user needs such as accessing tech updates, receiving mentorship, debugging code, and learning new technologies.
-The experiment highlights that well-constructed prompts:
-1.Improve clarity and response accuracy.
-2.Offer personalized and guided support.
-3.Simulate real-world problem-solving scenarios in tech education.
-This chatbot not only serves as a virtual assistant for CS learners and tech enthusiasts but also exemplifies how diverse prompting strategies can power intelligent, context-aware systems. Future enhancements could include voice integration, AI-generated project ideas, and integration with learning platforms for a more immersive experience.
 
 
 
-
-# Result: Thus the Prompts were exected succcessfully .
+# Result: 
+Thus the Prompts were exected succcessfully .
 
